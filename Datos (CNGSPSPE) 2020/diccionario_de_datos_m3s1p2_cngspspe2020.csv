@@ -1,0 +1,7 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I. 2,Numérico,2,1 al 99
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 2,Carácter,4,0-5000
+nombre1,Nombre de los centros penitenciarios,SECC I. 2,Carácter,500,
+centpeni_a,Tipo de centro penitenciario,SECC I. 2,Numérico,2,1 al 99
+clascent_a,Clasificación o división del centro penitenciario,SECC I. 2,Numérico,1,1 al 9
+modarqui_a,Modelo arquitectónico penitenciario,SECC I. 2,Numérico,1,1 al 9

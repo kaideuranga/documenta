@@ -1,0 +1,6 @@
+﻿COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC I. 3,Numérico,2,1 al 99
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 3,Carácter,4,0-5000
+nombre1,Nombre de los centros penitenciarios,SECC I. 3,Carácter,500,
+rensnn1,Operación bajo el esquema de contrato de prestación de servicios,SECC I. 3,Numérico,2,0 al 98
+anio,Año en el que entró en operación el esquema de contrato de prestación de servicios,SECC I. 3,,4,
