@@ -1,0 +1,71 @@
+mes,centro,tipo,incidencia,incidencias,personas_involucradas,personas_heridas
+2026-01,CEFEREPSI,Publico,Agresiones a Terceros,5.0,5.0,0.0
+2026-01,CEFERESO No. 1 Altiplano,Publico,Agresiones a Terceros,4.0,4.0,0.0
+2026-01,CEFERESO No. 14 CPS Durango,Privado (CPS),Agresiones a Terceros,2.0,3.0,0.0
+2026-01,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Agresiones a Terceros,2.0,17.0,0.0
+2026-01,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Agresiones a Terceros,7.0,23.0,0.0
+2026-01,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Agresiones a Terceros,3.0,8.0,0.0
+2026-01,CEFERESO No. 5 Oriente,Publico,Agresiones a Terceros,1.0,1.0,0.0
+2026-01,CEFERESO No. 7 Nor-Noroeste,Publico,Agresiones a Terceros,1.0,3.0,0.0
+2026-01,CEFEREPSI,Publico,Autoagresiones,1.0,1.0,0.0
+2026-01,CEFERESO No. 14 CPS Durango,Privado (CPS),Autoagresiones,3.0,3.0,0.0
+2026-01,CEFERESO No. 1 Altiplano,Publico,Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-01,CEFERESO No. 14 CPS Durango,Privado (CPS),Decesos por muerte natural o enfermedad,2.0,2.0,0.0
+2026-01,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-01,CEFERESO No. 5 Oriente,Publico,Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-01,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Intentos de Homicidio,1.0,1.0,0.0
+2026-01,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Intentos de Suicidio,1.0,1.0,0.0
+2026-01,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Riñas,3.0,9.0,3.0
+2026-01,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Riñas,1.0,5.0,2.0
+2026-01,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Riñas,1.0,2.0,0.0
+2026-01,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Riñas,2.0,6.0,4.0
+2026-01,CEFERESO No. 5 Oriente,Publico,Riñas,3.0,6.0,1.0
+2026-01,CEFERESO No. 5 Oriente,Publico,Suicidios,1.0,1.0,0.0
+2026-02,CEFEREPSI,Publico,Agresiones a Terceros,4.0,4.0,0.0
+2026-02,CEFERESO No. 11 CPS Sonora,Privado (CPS),Agresiones a Terceros,1.0,7.0,0.0
+2026-02,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Agresiones a Terceros,1.0,3.0,0.0
+2026-02,CEFERESO No. 14 CPS Durango,Privado (CPS),Agresiones a Terceros,1.0,2.0,0.0
+2026-02,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Agresiones a Terceros,1.0,4.0,0.0
+2026-02,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Agresiones a Terceros,1.0,1.0,0.0
+2026-02,CEFEREPSI,Publico,Autoagresiones,5.0,5.0,0.0
+2026-02,CEFERESO No. 14 CPS Durango,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-02,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-02,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-02,CEFERESO No. 4 Noroeste,Publico,Decesos por muerte natural o enfermedad,2.0,2.0,0.0
+2026-02,CEFEREPSI,Publico,Intentos de Suicidio,1.0,1.0,0.0
+2026-02,CEFERESO No. 1 Altiplano,Publico,Riñas,2.0,4.0,0.0
+2026-02,CEFERESO No. 11 CPS Sonora,Privado (CPS),Riñas,1.0,2.0,0.0
+2026-02,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Riñas,4.0,8.0,0.0
+2026-02,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Riñas,2.0,11.0,6.0
+2026-02,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Riñas,1.0,2.0,0.0
+2026-02,CEFERESO No. 5 Oriente,Publico,Riñas,3.0,7.0,2.0
+2026-02,CEFERESO No. 7 Nor-Noroeste,Publico,Riñas,1.0,2.0,0.0
+2026-02,CEFERESO No. 11 CPS Sonora,Privado (CPS),Suicidios,1.0,1.0,0.0
+2026-03,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Autoagresiones,1.0,1.0,0.0
+2026-03,CEFERESO No. 5 Oriente,Publico,Autoagresiones,1.0,1.0,0.0
+2026-03,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-03,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Riñas,2.0,4.0,2.0
+2026-03,CEFERESO No. 14 CPS Durango,Privado (CPS),Riñas,1.0,2.0,1.0
+2026-03,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Riñas,1.0,2.0,2.0
+2026-03,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Riñas,1.0,2.0,0.0
+2026-03,CEFERESO No. 4 Noroeste,Publico,Riñas,1.0,2.0,0.0
+2026-03,CEFERESO No. 5 Oriente,Publico,Riñas,1.0,2.0,0.0
+2026-03,CEFERESO No. 11 CPS Sonora,Privado (CPS),Suicidios,1.0,1.0,0.0
+2026-03,CEFERESO No. 5 Oriente,Publico,Suicidios,1.0,1.0,0.0
+2026-04,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Agresiones a Terceros,1.0,1.0,0.0
+2026-04,CEFERESO No. 14 CPS Durango,Privado (CPS),Agresiones a Terceros,1.0,5.0,0.0
+2026-04,CEFERESO No. 4 Noroeste,Publico,Agresiones a Terceros,1.0,2.0,0.0
+2026-04,CEFERESO No. 11 CPS Sonora,Privado (CPS),Autoagresiones,1.0,1.0,0.0
+2026-04,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Autoagresiones,1.0,1.0,0.0
+2026-04,CEFERESO No. 7 Nor-Noroeste,Publico,Autoagresiones,1.0,1.0,0.0
+2026-04,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Decesos por muerte natural o enfermedad,1.0,1.0,0.0
+2026-04,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Decesos por muerte natural o enfermedad,2.0,2.0,0.0
+2026-04,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Decesos por muerte natural o enfermedad,2.0,2.0,0.0
+2026-04,CEFERESO No. 7 Nor-Noroeste,Publico,Intentos de Suicidio,1.0,1.0,0.0
+2026-04,CEFEREPSI,Publico,Riñas,1.0,2.0,0.0
+2026-04,CEFERESO No. 1 Altiplano,Publico,Riñas,1.0,2.0,0.0
+2026-04,CEFERESO No. 11 CPS Sonora,Privado (CPS),Riñas,1.0,2.0,0.0
+2026-04,CEFERESO No. 5 Oriente,Publico,Riñas,1.0,2.0,1.0
+2026-04,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Suicidios,1.0,1.0,0.0
+2026-04,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Suicidios,1.0,1.0,0.0
+2026-04,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Suicidios,1.0,1.0,0.0
