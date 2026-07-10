@@ -1,0 +1,463 @@
+mes,mes_nombre,centro,tipo,entidad_origen,fc_procesados_h,fc_procesados_m,fc_sentenciados_h,fc_sentenciados_m,ff_procesados_h,ff_procesados_m,ff_sentenciados_h,ff_sentenciados_m,total
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Aguascalientes,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Baja California,0,0,1,0,10,0,2,0,13
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Baja California Sur,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Campeche,0,0,0,0,2,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Chiapas,0,0,1,0,5,0,1,0,7
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Chihuahua,0,0,5,0,17,0,8,0,30
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Ciudad de México,1,0,5,0,52,0,32,0,90
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Coahuila de Zaragoza,0,0,1,0,0,0,4,0,5
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Colima,0,0,2,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Durango,0,0,1,0,11,0,4,0,16
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Estado de México,0,0,5,0,32,0,18,0,55
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Guanajuato,0,0,3,0,5,0,1,0,9
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Guerrero,2,0,4,0,54,0,16,0,76
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Hidalgo,0,0,2,0,6,0,2,0,10
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Jalisco,1,0,1,0,26,0,7,0,35
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Michoacán de Ocampo,1,0,0,0,21,0,10,0,32
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Morelos,0,0,2,0,3,0,3,0,8
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Nayarit,0,0,0,0,3,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Nuevo León,0,0,2,0,3,0,2,0,7
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Oaxaca,1,0,0,0,7,0,1,0,9
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Puebla,0,0,1,0,7,0,4,0,12
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Querétaro,0,0,0,0,3,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Quintana Roo,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,San Luis Potosí,0,0,1,0,5,0,0,0,6
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Sinaloa,2,0,5,0,47,0,4,0,58
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Sonora,0,0,1,0,14,0,1,0,16
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Tabasco,0,0,1,0,3,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Tamaulipas,2,0,2,0,18,0,13,0,35
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Tlaxcala,0,0,0,0,2,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Veracruz de Ignacio de la Llave,1,0,3,0,22,0,6,0,32
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Yucatán,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Zacatecas,0,0,0,0,2,0,2,0,4
+2026-02,Febrero 2026,CEFERESO No. 1 Altiplano,Publico,Extranjeros,0,0,1,0,8,0,2,0,11
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Aguascalientes,0,0,14,0,0,0,8,0,22
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Baja California,3,0,8,0,5,0,7,0,23
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Baja California Sur,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Campeche,0,0,3,0,0,0,1,0,4
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Chiapas,4,0,12,0,1,0,6,0,23
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Chihuahua,1,0,20,0,0,0,12,0,33
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Ciudad de México,14,0,113,0,43,0,50,0,220
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Coahuila de Zaragoza,3,0,48,0,5,0,12,0,68
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Colima,1,0,3,0,1,0,6,0,11
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Durango,1,0,10,0,3,0,7,0,21
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Estado de México,3,0,183,0,56,0,34,0,276
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Guanajuato,5,0,165,0,1,0,5,0,176
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Guerrero,4,0,40,0,38,0,35,0,117
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Hidalgo,1,0,23,0,2,0,3,0,29
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Jalisco,6,0,22,0,23,0,44,0,95
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Michoacán de Ocampo,2,0,37,0,11,0,36,0,86
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Morelos,3,0,10,0,5,0,10,0,28
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Nayarit,10,0,42,0,92,0,81,0,225
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Nuevo León,3,0,53,0,2,0,2,0,60
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Oaxaca,1,0,9,0,3,0,4,0,17
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Puebla,16,0,77,0,8,0,13,0,114
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Querétaro,0,0,13,0,2,0,0,0,15
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Quintana Roo,5,0,14,0,0,0,0,0,19
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,San Luis Potosí,5,0,16,0,0,0,1,0,22
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Sinaloa,5,0,20,0,31,0,30,0,86
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Sonora,5,0,51,0,2,0,9,0,67
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Tabasco,6,0,24,0,5,0,3,0,38
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Tamaulipas,23,0,39,0,26,0,36,0,124
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Tlaxcala,2,0,7,0,3,0,2,0,14
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Veracruz de Ignacio de la Llave,34,0,57,0,13,0,22,0,126
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Yucatán,2,0,9,0,1,0,0,0,12
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Zacatecas,1,0,21,0,2,0,3,0,27
+2026-02,Febrero 2026,CEFERESO No. 4 Noroeste,Publico,Extranjeros,3,0,18,0,6,0,10,0,37
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Aguascalientes,1,0,10,0,0,0,0,0,11
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Baja California,2,0,7,0,1,0,1,0,11
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Baja California Sur,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Campeche,0,0,7,0,1,0,0,0,8
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Chiapas,2,0,21,0,4,0,2,0,29
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Chihuahua,2,0,13,0,8,0,5,0,28
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Ciudad de México,6,0,63,0,26,0,48,0,143
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Coahuila de Zaragoza,1,0,38,0,0,0,3,0,42
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Colima,1,0,3,0,1,0,4,0,9
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Durango,3,0,8,0,0,0,7,0,18
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Estado de México,3,0,100,0,24,0,20,0,147
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Guanajuato,4,0,74,0,1,0,4,0,83
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Guerrero,6,0,18,0,16,0,30,0,70
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Hidalgo,2,0,19,0,2,0,13,0,36
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Jalisco,7,0,14,0,2,0,11,0,34
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Michoacán de Ocampo,1,0,17,0,11,0,20,0,49
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Morelos,0,0,2,0,6,0,4,0,12
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Nayarit,0,0,3,0,0,0,1,0,4
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Nuevo León,2,0,20,0,1,0,3,0,26
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Oaxaca,1,0,8,0,2,0,8,0,19
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Puebla,8,0,20,0,10,0,28,0,66
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Querétaro,0,0,7,0,0,0,2,0,9
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Quintana Roo,2,0,17,0,0,0,3,0,22
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,San Luis Potosí,3,0,3,0,0,0,9,0,15
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Sinaloa,3,0,4,0,18,0,6,0,31
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Sonora,1,0,4,0,2,0,0,0,7
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Tabasco,5,0,18,0,3,0,5,0,31
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Tamaulipas,9,0,18,0,7,0,28,0,62
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Tlaxcala,0,0,3,0,15,0,20,0,38
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Veracruz de Ignacio de la Llave,36,0,56,0,29,0,134,0,255
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Yucatán,0,0,2,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Zacatecas,0,0,52,0,1,0,5,0,58
+2026-02,Febrero 2026,CEFERESO No. 5 Oriente,Publico,Extranjeros,0,0,9,0,0,0,9,0,18
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Aguascalientes,0,0,6,0,0,0,0,0,6
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Baja California,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Baja California Sur,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Campeche,0,0,2,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Chiapas,0,0,1,0,1,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Chihuahua,1,0,2,0,2,0,10,0,15
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Ciudad de México,0,0,13,0,2,0,1,0,16
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Coahuila de Zaragoza,2,0,8,0,1,0,7,0,18
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Colima,0,0,0,0,1,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Durango,1,0,39,0,33,0,40,0,113
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Estado de México,0,0,9,0,0,0,6,0,15
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Guanajuato,0,0,0,0,3,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Guerrero,0,0,2,0,1,0,3,0,6
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Hidalgo,0,0,1,0,2,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Jalisco,2,0,3,0,4,0,2,0,11
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Michoacán de Ocampo,0,0,1,0,0,0,1,0,2
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Morelos,0,0,7,0,0,0,1,0,8
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Nayarit,1,0,0,0,2,0,2,0,5
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Nuevo León,0,0,5,0,0,0,3,0,8
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Oaxaca,0,0,3,0,2,0,2,0,7
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Puebla,0,0,2,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Querétaro,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Quintana Roo,2,0,2,0,0,0,3,0,7
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,San Luis Potosí,0,0,0,0,0,0,1,0,1
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Sinaloa,0,0,2,0,7,0,7,0,16
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Sonora,0,0,0,0,1,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Tabasco,1,0,1,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Tamaulipas,1,0,1,0,1,0,2,0,5
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Tlaxcala,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Veracruz de Ignacio de la Llave,1,0,5,0,3,0,1,0,10
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Yucatán,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Zacatecas,0,0,22,0,2,0,9,0,33
+2026-02,Febrero 2026,CEFERESO No. 7 Nor-Noroeste,Publico,Extranjeros,1,0,3,0,3,0,2,0,9
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Aguascalientes,0,0,2,0,0,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Baja California,0,0,9,0,10,0,5,0,24
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Baja California Sur,0,0,0,0,1,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Campeche,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Chiapas,0,0,4,0,3,0,1,0,8
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Chihuahua,0,0,6,0,1,0,9,0,16
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Ciudad de México,0,0,4,0,3,0,10,0,17
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Coahuila de Zaragoza,0,0,0,0,0,0,2,0,2
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Colima,0,0,0,0,0,0,1,0,1
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Durango,0,0,2,0,6,0,5,0,13
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Estado de México,0,0,2,0,1,0,3,0,6
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Guanajuato,0,0,32,0,0,0,4,0,36
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Guerrero,0,0,5,0,2,0,4,0,11
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Hidalgo,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Jalisco,0,0,0,0,15,0,6,0,21
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Michoacán de Ocampo,0,0,3,0,2,0,23,0,28
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Morelos,0,0,8,0,0,0,1,0,9
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Nayarit,0,0,0,0,0,0,3,0,3
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Nuevo León,2,0,8,0,0,0,1,0,11
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Oaxaca,0,0,1,0,3,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Puebla,1,0,19,0,1,0,1,0,22
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Querétaro,0,0,2,0,0,0,2,0,4
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Quintana Roo,1,0,3,0,0,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,San Luis Potosí,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Sinaloa,2,0,37,0,195,0,127,0,361
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Sonora,1,0,29,0,6,0,10,0,46
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Tabasco,1,0,8,0,0,0,2,0,11
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Tamaulipas,0,0,1,0,0,0,7,0,8
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Tlaxcala,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Veracruz de Ignacio de la Llave,0,0,1,0,4,0,2,0,7
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Yucatán,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Zacatecas,0,0,18,0,1,0,1,0,20
+2026-02,Febrero 2026,CEFERESO No. 8 Nor-Poniente,Publico,Extranjeros,0,0,0,0,2,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Aguascalientes,0,0,1,0,3,0,7,0,11
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Baja California,0,0,1,0,21,0,15,0,37
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Baja California Sur,0,0,1,0,21,0,4,0,26
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Campeche,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Chiapas,1,0,0,0,6,0,6,0,13
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Chihuahua,6,0,34,0,22,0,49,0,111
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Ciudad de México,0,0,14,0,9,0,10,0,33
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Coahuila de Zaragoza,1,0,3,0,7,0,18,0,29
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Colima,0,0,3,0,0,0,1,0,4
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Durango,0,0,5,0,19,0,29,0,53
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Estado de México,5,0,94,0,17,0,16,0,132
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Guanajuato,1,0,53,0,14,0,9,0,77
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Guerrero,0,0,42,0,12,0,15,0,69
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Hidalgo,0,0,0,0,7,0,9,0,16
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Jalisco,3,0,9,0,17,0,10,0,39
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Michoacán de Ocampo,0,0,8,0,15,0,35,0,58
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Morelos,3,0,4,0,3,0,2,0,12
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Nayarit,0,0,0,0,9,0,8,0,17
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Nuevo León,4,0,40,0,13,0,12,0,69
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Oaxaca,0,0,1,0,13,0,11,0,25
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Puebla,2,0,0,0,8,0,6,0,16
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Querétaro,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Quintana Roo,0,0,5,0,0,0,0,0,5
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),San Luis Potosí,2,0,2,0,3,0,4,0,11
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Sinaloa,2,0,18,0,71,0,143,0,234
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Sonora,6,0,56,0,284,0,633,0,979
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Tabasco,1,0,9,0,10,0,7,0,27
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Tamaulipas,2,0,7,0,17,0,31,0,57
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Tlaxcala,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Veracruz de Ignacio de la Llave,6,0,14,0,12,0,14,0,46
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Yucatán,1,0,0,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Zacatecas,0,0,0,0,12,0,9,0,21
+2026-02,Febrero 2026,CEFERESO No. 11 CPS Sonora,Privado (CPS),Extranjeros,0,0,4,0,16,0,27,0,47
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Aguascalientes,3,0,23,0,3,0,6,0,35
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Baja California,0,0,4,0,4,0,4,0,12
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Baja California Sur,1,0,4,0,3,0,0,0,8
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Campeche,1,0,3,0,0,0,2,0,6
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Chiapas,1,0,15,0,3,0,4,0,23
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Chihuahua,0,0,26,0,12,0,38,0,76
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Ciudad de México,15,0,75,0,36,0,56,0,182
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Coahuila de Zaragoza,0,0,7,0,7,0,4,0,18
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Colima,0,0,0,0,5,0,5,0,10
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Durango,0,0,8,0,5,0,7,0,20
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Estado de México,6,0,94,0,23,0,34,0,157
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Guanajuato,3,0,32,0,209,0,232,0,476
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Guerrero,5,0,35,0,12,0,15,0,67
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Hidalgo,3,0,16,0,9,0,13,0,41
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Jalisco,2,0,12,0,55,0,99,0,168
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Michoacán de Ocampo,5,0,9,0,27,0,64,0,105
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Morelos,2,0,38,0,8,0,5,0,53
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Nayarit,1,0,14,0,9,0,8,0,32
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Nuevo León,1,0,34,0,1,0,5,0,41
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Oaxaca,2,0,7,0,3,0,5,0,17
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Puebla,4,0,27,0,7,0,10,0,48
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Querétaro,1,0,6,0,4,0,36,0,47
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Quintana Roo,1,0,3,0,0,0,2,0,6
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),San Luis Potosí,10,0,13,0,10,0,17,0,50
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Sinaloa,5,0,9,0,47,0,17,0,78
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Sonora,3,0,4,0,6,0,2,0,15
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Tabasco,6,0,26,0,4,0,9,0,45
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Tamaulipas,4,0,18,0,30,0,53,0,105
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Tlaxcala,0,0,8,0,3,0,5,0,16
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Veracruz de Ignacio de la Llave,16,0,38,0,32,0,21,0,107
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Yucatán,2,0,5,0,1,0,2,0,10
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Zacatecas,0,0,39,0,5,0,19,0,63
+2026-02,Febrero 2026,CEFERESO No. 12 CPS Guanajuato,Privado (CPS),Extranjeros,2,0,7,0,11,0,11,0,31
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Aguascalientes,1,0,9,0,0,0,3,0,13
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Baja California,4,0,12,0,5,0,6,0,27
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Baja California Sur,0,0,1,0,1,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Campeche,1,0,8,0,1,0,1,0,11
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Chiapas,5,0,17,0,7,0,12,0,41
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Chihuahua,0,0,21,0,0,0,6,0,27
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Ciudad de México,7,0,146,0,25,0,34,0,212
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Coahuila de Zaragoza,2,0,9,0,7,0,3,0,21
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Colima,0,0,1,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Durango,0,0,6,0,5,0,3,0,14
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Estado de México,7,0,126,0,12,0,18,0,163
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Guanajuato,3,0,100,0,9,0,11,0,123
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Guerrero,18,0,59,0,26,0,36,0,139
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Hidalgo,5,0,8,0,1,0,5,0,19
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Jalisco,4,0,27,0,6,0,22,0,59
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Michoacán de Ocampo,2,0,23,0,6,0,21,0,52
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Morelos,1,0,5,0,7,0,10,0,23
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Nayarit,2,0,3,0,3,0,1,0,9
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Nuevo León,7,0,58,0,3,0,9,0,77
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Oaxaca,5,0,23,0,119,0,109,0,256
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Puebla,9,0,37,0,5,0,38,0,89
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Querétaro,2,0,2,0,0,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Quintana Roo,13,0,9,0,2,0,3,0,27
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),San Luis Potosí,6,0,22,0,0,0,5,0,33
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Sinaloa,3,0,10,0,55,0,17,0,85
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Sonora,4,0,4,0,2,0,3,0,13
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Tabasco,15,0,32,0,6,0,10,0,63
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Tamaulipas,12,0,21,0,10,0,27,0,70
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Tlaxcala,0,0,2,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Veracruz de Ignacio de la Llave,43,0,129,0,26,0,41,0,239
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Yucatán,5,0,6,0,0,0,2,0,13
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Zacatecas,4,0,72,0,3,0,10,0,89
+2026-02,Febrero 2026,CEFERESO No. 13 CPS Oaxaca,Privado (CPS),Extranjeros,9,0,15,0,11,0,12,0,47
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Aguascalientes,0,0,6,0,0,0,0,0,6
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Baja California,2,0,8,0,4,0,23,0,37
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Baja California Sur,0,0,0,0,0,0,1,0,1
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Campeche,0,0,0,0,2,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Chiapas,1,0,4,0,1,0,2,0,8
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Chihuahua,2,0,50,0,2,0,18,0,72
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Ciudad de México,8,0,137,0,119,0,122,0,386
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Coahuila de Zaragoza,5,0,79,0,13,0,50,0,147
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Colima,0,0,4,0,0,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Durango,3,0,74,0,9,0,25,0,111
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Estado de México,7,0,80,0,73,0,60,0,220
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Guanajuato,0,0,52,0,8,0,6,0,66
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Guerrero,13,0,45,0,38,0,60,0,156
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Hidalgo,1,0,19,0,12,0,9,0,41
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Jalisco,14,0,21,0,12,0,2,0,49
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Michoacán de Ocampo,3,0,22,0,11,0,18,0,54
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Morelos,1,0,8,0,13,0,14,0,36
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Nayarit,4,0,1,0,2,0,3,0,10
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Nuevo León,6,0,45,0,9,0,27,0,87
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Oaxaca,3,0,11,0,4,0,9,0,27
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Puebla,1,0,37,0,7,0,10,0,55
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Querétaro,0,0,3,0,2,0,1,0,6
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Quintana Roo,2,0,1,0,2,0,0,0,5
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),San Luis Potosí,3,0,8,0,3,0,10,0,24
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Sinaloa,2,0,21,0,16,0,14,0,53
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Sonora,6,0,17,0,3,0,1,0,27
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Tabasco,1,0,20,0,5,0,8,0,34
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Tamaulipas,14,0,35,0,48,0,65,0,162
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Tlaxcala,0,0,2,0,3,0,6,0,11
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Veracruz de Ignacio de la Llave,11,0,69,0,45,0,55,0,180
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Yucatán,1,0,0,0,1,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Zacatecas,5,0,116,0,2,0,20,0,143
+2026-02,Febrero 2026,CEFERESO No. 14 CPS Durango,Privado (CPS),Extranjeros,3,0,18,0,7,0,12,0,40
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Aguascalientes,0,0,7,0,3,0,3,0,13
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Baja California,4,0,4,0,0,0,3,0,11
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Baja California Sur,1,0,1,0,0,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Campeche,3,0,12,0,2,0,3,0,20
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Chiapas,11,0,51,0,11,0,22,0,95
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Chihuahua,3,0,17,0,1,0,7,0,28
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Ciudad de México,2,0,158,0,12,0,18,0,190
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Coahuila de Zaragoza,2,0,11,0,1,0,8,0,22
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Colima,1,0,1,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Durango,1,0,9,0,2,0,8,0,20
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Estado de México,6,0,181,0,3,0,27,0,217
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Guanajuato,0,0,121,0,1,0,3,0,125
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Guerrero,9,0,53,0,6,0,16,0,84
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Hidalgo,0,0,18,0,6,0,3,0,27
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Jalisco,14,0,29,0,7,0,11,0,61
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Michoacán de Ocampo,1,0,33,0,6,0,14,0,54
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Morelos,1,0,3,0,7,0,6,0,17
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Nayarit,1,0,3,0,0,0,2,0,6
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Nuevo León,4,0,61,0,2,0,11,0,78
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Oaxaca,0,0,17,0,2,0,2,0,21
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Puebla,5,0,28,0,2,0,17,0,52
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Querétaro,0,0,3,0,1,0,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Quintana Roo,8,0,9,0,1,0,2,0,20
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),San Luis Potosí,4,0,14,0,2,0,6,0,26
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Sinaloa,2,0,10,0,46,0,8,0,66
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Sonora,1,0,7,0,3,0,4,0,15
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Tabasco,7,0,36,0,4,0,20,0,67
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Tamaulipas,7,0,30,0,12,0,43,0,92
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Tlaxcala,1,0,2,0,0,0,5,0,8
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Veracruz de Ignacio de la Llave,47,0,93,0,7,0,33,0,180
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Yucatán,1,0,4,0,0,0,0,0,5
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Zacatecas,1,0,70,0,0,0,10,0,81
+2026-02,Febrero 2026,CEFERESO No. 15 CPS Chiapas,Privado (CPS),Extranjeros,6,0,17,0,8,0,34,0,65
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Aguascalientes,0,0,0,1,0,0,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Baja California,0,0,0,1,0,2,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Baja California Sur,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Campeche,0,3,0,0,0,1,0,0,4
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Chiapas,0,2,0,0,0,5,0,2,9
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Chihuahua,0,2,0,7,0,4,0,2,15
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Ciudad de México,0,4,0,22,0,67,0,35,128
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Coahuila de Zaragoza,0,2,0,1,0,6,0,12,21
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Colima,0,0,0,0,0,0,0,2,2
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Durango,0,0,0,0,0,3,0,5,8
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Estado de México,0,2,0,28,0,44,0,33,107
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Guanajuato,0,0,0,6,0,6,0,11,23
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Guerrero,0,8,0,10,0,19,0,15,52
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Hidalgo,0,0,0,0,0,3,0,4,7
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Jalisco,0,4,0,1,0,7,0,5,17
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Michoacán de Ocampo,0,1,0,5,0,6,0,9,21
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Morelos,0,3,0,23,0,9,0,11,46
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Nayarit,0,0,0,0,0,1,0,0,1
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Nuevo León,0,1,0,6,0,1,0,7,15
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Oaxaca,0,0,0,0,0,3,0,3,6
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Puebla,0,4,0,6,0,8,0,6,24
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Querétaro,0,0,0,0,0,0,0,1,1
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Quintana Roo,0,6,0,0,0,0,0,2,8
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),San Luis Potosí,0,1,0,2,0,2,0,5,10
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Sinaloa,0,1,0,1,0,9,0,1,12
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Sonora,0,0,0,1,0,0,0,1,2
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Tabasco,0,2,0,0,0,3,0,2,7
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Tamaulipas,0,3,0,1,0,11,0,13,28
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Tlaxcala,0,0,0,0,0,1,0,3,4
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Veracruz de Ignacio de la Llave,0,9,0,8,0,12,0,13,42
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Yucatán,0,2,0,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Zacatecas,0,1,0,15,0,1,0,4,21
+2026-02,Febrero 2026,CEFERESO No. 16 CPS Femenil Morelos,Privado (CPS),Extranjeros,0,0,0,4,0,5,0,8,17
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Aguascalientes,0,0,6,0,3,0,6,0,15
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Baja California,5,0,10,0,5,0,4,0,24
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Baja California Sur,1,0,1,0,1,0,1,0,4
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Campeche,5,0,1,0,2,0,2,0,10
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Chiapas,4,0,15,0,5,0,2,0,26
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Chihuahua,5,0,44,0,24,0,63,0,136
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Ciudad de México,4,0,137,0,45,0,35,0,221
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Coahuila de Zaragoza,0,0,5,0,4,0,8,0,17
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Colima,0,0,1,0,2,0,6,0,9
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Durango,0,0,12,0,6,0,10,0,28
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Estado de México,1,0,39,0,10,0,4,0,54
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Guanajuato,11,0,48,0,22,0,6,0,87
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Guerrero,3,0,24,0,31,0,42,0,100
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Hidalgo,1,0,6,0,0,0,3,0,10
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Jalisco,13,0,19,0,57,0,70,0,159
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Michoacán de Ocampo,5,0,31,0,104,0,234,0,374
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Morelos,2,0,41,0,2,0,15,0,60
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Nayarit,1,0,15,0,6,0,7,0,29
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Nuevo León,0,0,4,0,1,0,4,0,9
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Oaxaca,4,0,5,0,0,0,9,0,18
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Puebla,0,0,28,0,0,0,6,0,34
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Querétaro,1,0,4,0,10,0,0,0,15
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Quintana Roo,0,0,6,0,0,0,3,0,9
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),San Luis Potosí,0,0,11,0,1,0,4,0,16
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Sinaloa,4,0,22,0,44,0,26,0,96
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Sonora,1,0,4,0,7,0,7,0,19
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Tabasco,7,0,17,0,5,0,9,0,38
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Tamaulipas,8,0,14,0,23,0,36,0,81
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Tlaxcala,0,0,2,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Veracruz de Ignacio de la Llave,4,0,28,0,12,0,33,0,77
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Yucatán,2,0,0,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Zacatecas,0,0,49,0,1,0,5,0,55
+2026-02,Febrero 2026,CEFERESO No. 17 CPS Michoacan,Privado (CPS),Extranjeros,3,0,12,0,42,0,32,0,89
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Aguascalientes,0,0,4,0,3,0,5,0,12
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Baja California,4,0,17,0,2,0,4,0,27
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Baja California Sur,0,0,1,0,0,0,2,0,3
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Campeche,1,0,2,0,0,0,2,0,5
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Chiapas,0,0,6,0,8,0,5,0,19
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Chihuahua,0,0,59,0,10,0,62,0,131
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Ciudad de México,15,0,87,0,16,0,34,0,152
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Coahuila de Zaragoza,3,0,58,0,86,0,88,0,235
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Colima,1,0,1,0,1,0,1,0,4
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Durango,1,0,18,0,10,0,14,0,43
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Estado de México,1,0,81,0,15,0,24,0,121
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Guanajuato,1,0,53,0,6,0,14,0,74
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Guerrero,12,0,30,0,18,0,22,0,82
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Hidalgo,1,0,8,0,2,0,7,0,18
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Jalisco,4,0,12,0,13,0,14,0,43
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Michoacán de Ocampo,3,0,21,0,20,0,40,0,84
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Morelos,0,0,4,0,1,0,9,0,14
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Nayarit,0,0,1,0,1,0,1,0,3
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Nuevo León,3,0,140,0,11,0,61,0,215
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Oaxaca,1,0,6,0,2,0,6,0,15
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Puebla,2,0,7,0,6,0,5,0,20
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Querétaro,0,0,3,0,0,0,2,0,5
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Quintana Roo,6,0,8,0,1,0,3,0,18
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),San Luis Potosí,4,0,14,0,10,0,13,0,41
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Sinaloa,0,0,20,0,21,0,26,0,67
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Sonora,0,0,36,0,1,0,8,0,45
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Tabasco,2,0,12,0,2,0,6,0,22
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Tamaulipas,8,0,61,0,31,0,110,0,210
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Tlaxcala,0,0,5,0,0,0,2,0,7
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Veracruz de Ignacio de la Llave,9,0,43,0,15,0,28,0,95
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Yucatán,4,0,1,0,0,0,0,0,5
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Zacatecas,4,0,89,0,1,0,16,0,110
+2026-02,Febrero 2026,CEFERESO No. 18 CPS Coahuila,Privado (CPS),Extranjeros,5,0,17,0,18,0,39,0,79
+2026-02,Febrero 2026,CEFEREPSI,Publico,Aguascalientes,0,0,2,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,Baja California,0,0,1,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFEREPSI,Publico,Baja California Sur,0,0,1,0,0,0,1,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,Campeche,0,0,0,0,0,0,1,0,1
+2026-02,Febrero 2026,CEFEREPSI,Publico,Chiapas,2,0,9,0,0,0,0,0,11
+2026-02,Febrero 2026,CEFEREPSI,Publico,Chihuahua,0,0,5,0,0,0,3,0,8
+2026-02,Febrero 2026,CEFEREPSI,Publico,Ciudad de México,0,0,9,0,4,0,4,0,17
+2026-02,Febrero 2026,CEFEREPSI,Publico,Coahuila de Zaragoza,0,0,2,0,0,0,2,0,4
+2026-02,Febrero 2026,CEFEREPSI,Publico,Colima,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFEREPSI,Publico,Durango,1,0,1,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,Estado de México,0,0,5,0,1,0,3,0,9
+2026-02,Febrero 2026,CEFEREPSI,Publico,Guanajuato,0,0,7,0,0,0,4,0,11
+2026-02,Febrero 2026,CEFEREPSI,Publico,Guerrero,0,0,5,0,1,0,5,0,11
+2026-02,Febrero 2026,CEFEREPSI,Publico,Hidalgo,1,0,3,0,1,0,0,0,5
+2026-02,Febrero 2026,CEFEREPSI,Publico,Jalisco,0,0,2,0,0,0,1,0,3
+2026-02,Febrero 2026,CEFEREPSI,Publico,Michoacán de Ocampo,0,0,1,0,2,0,1,0,4
+2026-02,Febrero 2026,CEFEREPSI,Publico,Morelos,1,0,1,0,1,0,5,0,8
+2026-02,Febrero 2026,CEFEREPSI,Publico,Nayarit,0,0,1,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFEREPSI,Publico,Nuevo León,0,0,1,0,0,0,0,0,1
+2026-02,Febrero 2026,CEFEREPSI,Publico,Oaxaca,1,0,0,0,0,0,3,0,4
+2026-02,Febrero 2026,CEFEREPSI,Publico,Puebla,2,0,2,0,0,0,3,0,7
+2026-02,Febrero 2026,CEFEREPSI,Publico,Querétaro,0,0,0,0,1,0,0,0,1
+2026-02,Febrero 2026,CEFEREPSI,Publico,Quintana Roo,0,0,1,0,1,0,0,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,San Luis Potosí,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFEREPSI,Publico,Sinaloa,0,0,1,0,1,0,0,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,Sonora,0,0,2,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFEREPSI,Publico,Tabasco,0,0,2,0,0,0,0,0,2
+2026-02,Febrero 2026,CEFEREPSI,Publico,Tamaulipas,0,0,5,0,5,0,2,0,12
+2026-02,Febrero 2026,CEFEREPSI,Publico,Tlaxcala,1,0,1,0,1,0,0,0,3
+2026-02,Febrero 2026,CEFEREPSI,Publico,Veracruz de Ignacio de la Llave,1,0,5,0,0,0,2,0,8
+2026-02,Febrero 2026,CEFEREPSI,Publico,Yucatán,0,0,0,0,0,0,0,0,0
+2026-02,Febrero 2026,CEFEREPSI,Publico,Zacatecas,0,0,5,0,0,0,0,0,5
+2026-02,Febrero 2026,CEFEREPSI,Publico,Extranjeros,0,0,1,0,1,0,5,0,7
