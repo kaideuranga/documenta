@@ -1,0 +1,51 @@
+Identifier: MEX-INEGI.40.1200.03-CNSIPEF-2025
+
+Title: Censo Nacional de Sistema Penitenciario Federal 2025
+
+Description: INEGI. Censo Nacional de Sistema Penitenciario Federal 2025
+
+Tiene como objetivo generar información estadística y geográfica sobre la gestión y desempeño del Sistema Penitenciario Federal (centros penitenciarios federales), específicamente en la función de sistema penitenciario. Su finalidad es vincular los datos con el diseño, implementación, monitoreo y evaluación de las políticas públicas de alcance nacional en dicha función.
+
+El CNSIPEF 2025 presenta datos e información sobre: 
+
+1. La infraestructura de los centros penitenciarios federales, los recursos humanos, presupuestales y materiales de los que disponen para el ejercicio de sus funciones, así como el marco regulatorio y las asociaciones interinstitucionales que rigen su actuación.
+
+2. Las características sociodemográficas y el estatus jurídico de las personas ingresadas, privadas de la libertad y egresadas de los centros penitenciarios federales.
+
+3. Las mujeres privadas de la libertad con necesidades específicas dentro de los centros penitenciarios federales.
+
+4. La participación de la institución responsable de los centros penitenciarios federales en la implementación de algún programa de justicia terapéutica.
+
+5. Los traslados nacionales e internacionales de las personas privadas de la libertad en los centros penitenciarios federales, así como de las extradiciones de estas.
+
+6. Las personas privadas de la libertad en los centros penitenciarios federales a las actividades orientadas a la reinserción social (educación, trabajo, salud y deporte), así como a las actividades de recreación, participación electoral y régimen de visitas.
+
+7. La seguridad, protección y orden internos de los centros penitenciarios federales, en cuanto a las medidas para prevenir y evitar el autogobierno implementadas, las revisiones realizadas, los incidentes ocurridos, así como el régimen disciplinario de las personas privadas de la libertad.
+
+8. Los hechos, actos u omisiones que atentan contra los derechos humanos y condiciones de internamiento de las personas privadas de la libertad en los centros penitenciarios federales.
+
+9. Los servicios postpenales otorgados a las personas egresadas de los centros penitenciarios federales a efecto de facilitar su reinserción social, procurar una vida digna y evitar la reincidencia.
+
+Note: Para georreferenciación de los datos de coordenadas geográficas se utiliza el Sistema de Referencia de Coordenadas (SCR) WGS84 (World Geodetic System 1984), cuyo formato consiste en la representación con dos cifras de latitud y longitud, en positivo para Norte y Este, y negativo para Sur y Oeste.
+
+Modified: 2025-08-06
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx 
+
+License: http://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/1119/data-dictionary
+
+Keyword: "infraestructura penitenciaria", "capacidad instalada", "personas titulares", "personal", "personas ingresadas", "personas egresadas", "personas privadas de la libertad", "personas fallecidas", "personas lesionadas", "servicios médicos", "presupuesto ejercido", “donaciones", "bienes inmuebles", "equipo informático", "registros administrativos", "mecanismos para la prevención de actos de corrupción", "delitos", "quejas", "infracciones disciplinarias", "autogobierno", "visitas efectuadas", "incidentes", "reinserción social", "traslados y extradiciones", "mujeres embarazadas privadas de la libertad", "protección de derechos humanos", "servicios postpenales"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-01-01-2024-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/cnsipef/2025/

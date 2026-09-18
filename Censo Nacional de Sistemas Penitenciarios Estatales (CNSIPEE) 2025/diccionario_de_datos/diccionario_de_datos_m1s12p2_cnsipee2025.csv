@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC XII. 2,Numérico,2,1 al 99
+enticve1,Entidad,SECC XII. 2,Carácter,2500,
+motitras_b,Motivo del traslado,SECC XII. 2,Numérico,2,1 al 99
+traslatt,Total,SECC XII. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla1,Voluntarios,SECC XII. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla2,Involuntarios,SECC XII. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

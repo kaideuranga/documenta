@@ -1,0 +1,27 @@
+Identifier: DDI-MEX-INEGI-ENPOL-2021
+  
+Title: Encuesta Nacional de Población Privada de la Libertad 2021
+  
+Description: La ENPOL se realiza en el marco del mandato legal contenido en el artículo 29 de la Ley Nacional de Ejecución Penal, publicada en el Diario Oficial de la Federación el 16 de junio de 2016 que contempla la realización de esta encuesta para "generar información estadística que permita conocer las condiciones de procesamiento y de internamiento de las personas privadas de su libertad, su perfil demográfico y socioeconómico, los delitos por los que fueron procesados o sentenciados, entre otras características". En cumplimiento de lo estipulado en la ley, El Instituto Nacional de Estadística y Geografía, a través de la Dirección General de Estadísticas de Gobierno, Seguridad y Justicia, realizó la Encuesta Nacional de Población Privada de la Libertad (ENPOL), primer ejercicio de este tipo en el país. Esta tiene representatividad a nivel nacional, por entidad federativa y centros penitenciarios de interés. Su propósito es dar a conocer información sobre la población que legalmente ha sido privada de la libertad y que se encuentra en centros penitenciarios, así como proporcionar elementos para la toma de decisiones de política pública en esta materia.
+  
+Modified: 2021-12-07
+  
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+  
+Mbox: atencion.usuarios@inegi.org.mx
+  
+License: https://www.inegi.org.mx/inegi/terminos.html
+  
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/711/data_dictionary?idPro=
+  
+Keyword: Acto delictivo, Agresión física, Averiguación previa, Carrera criminal, Conducta antisocial, Conducta delictiva, Conducta violenta, Control social, Corrupción, Criminología, Debido proceso, Delincuencia, Delincuente, Delito, Delito con violencia, Delito culposo, Delito doloso, Denuncia, Desempeño institucional, Desorganización social, Estado psicofísico, Factores de riesgo, Impartición de justicia, Incidencia delictiva, Jueces, Pandilla, Parentesco, Patrón del delito, Potencial antisocial (PA), Predisposición del delito, Prevención de la delincuencia, Prevención primaria, Prevención secundaria, Prevención terciaria, Proceso de Seguridad Pública y Justicia Penal, Procuración de justicia, Sistema de Justicia Penal, Sistema penitenciario, Situación de riesgo, Teoría de rangos de edad, Teoría interaccional, Víctima, Victimización.
+  
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+  
+Temporal: 2020-06-14-2021-07-26 
+  
+Spatial: Estados Unidos Mexicanos
+  
+AccrualPeriodicity: No determinada
+
+Distribution: https://www.inegi.org.mx/programas/enpol/2021/

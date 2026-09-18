@@ -1,0 +1,51 @@
+Identifier: MEX-INEGI.40.1200.03-CNSIPEE-2025
+
+Title: Censo Nacional de Sistemas Penitenciarios Estatales 2025
+
+Description: INEGI. Censo Nacional de Sistemas Penitenciarios Estatales 2025
+
+Tiene como objetivo generar información estadística y geográfica sobre la gestión y desempeño del Sistema Penitenciario de cada entidad federativa (centros penitenciarios y centros especializados), específicamente en la función de sistema penitenciario. Su finalidad es vincular los datos con el diseño, implementación, monitoreo y evaluación de las políticas públicas de alcance nacional en dicha función.
+
+El CNSIPEE 2025 presenta datos e información sobre:
+
+1. La infraestructura de los centros penitenciarios y de los centros especializados de cada entidad federativa, los recursos humanos, presupuestales y materiales de los que disponen para el ejercicio de sus funciones, así como el marco regulatorio y las asociaciones interinstitucionales que rigen su actuación.
+
+2. Las características sociodemográficas y el estatus jurídico de las personas ingresadas, privadas de la libertad y egresadas de los centros penitenciarios, así como de las personas adolescentes en tratamiento externo, ingresadas, internadas y egresadas de los centros especializados de cada entidad federativa.
+
+3. Las mujeres privadas de la libertad con necesidades específicas dentro de los centros penitenciarios, así como de las mujeres adolescentes con dichas necesidades internadas en los centros especializados de cada entidad federativa.
+
+4. La participación de la institución responsable de los centros penitenciarios y de la institución responsable de los centros especializados de cada entidad federativa en la implementación de algún programa de justicia terapéutica.
+
+5. Los traslados nacionales e internacionales de las personas privadas de la libertad en los centros penitenciarios y de las personas adolescentes internadas en los centros especializados de cada entidad federativa, así como de las extradiciones de estas.
+
+6. El acceso de las personas privadas de la libertad en los centros penitenciarios y de las personas adolescentes internadas en los centros especializados de cada entidad federativa a las actividades orientadas a la reinserción social (educación, trabajo, salud y deporte), así como a las actividades de recreación, participación electoral (únicamente para las personas privadas de la libertad) y régimen de visitas.
+
+7. La seguridad, protección y orden internos de los centros penitenciarios y de los centros especializados de cada entidad federativa, en cuanto a las medidas para prevenir y evitar el autogobierno implementadas, las revisiones realizadas, los incidentes ocurridos, así como el régimen disciplinario de las personas privadas de la libertad y de las personas adolescentes internadas, respectivamente. 
+
+8. Los hechos, actos u omisiones que atentan contra los derechos humanos y condiciones de internamiento de las personas privadas de la libertad en los centros penitenciarios y de las personas adolescentes internadas en los centros especializados de cada entidad federativa.
+
+9. Los servicios postpenales otorgados a las personas egresadas de los centros penitenciarios y de los servicios proporcionados a las personas adolescentes egresadas y/o en tratamiento externo de cada entidad federativa a efecto de facilitar su reinserción social, procurar una vida digna y evitar la reincidencia.
+
+Note: Para georreferenciación de los datos de coordenadas geográficas se utiliza el Sistema de Referencia de Coordenadas (SCR) WGS84 (World Geodetic System 1984), cuyo formato consiste en la representación con dos cifras de latitud y longitud, en positivo para Norte y Este, y negativo para Sur y Oeste.
+
+Modified: 2025-08-28
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx 
+
+License: http://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/1122/data-dictionary
+
+Keyword: "centros penitenciarios", "centros especializados", "espacios físicos", "capacidad instalada", "infraestructura tecnológica", "suministros", "personas titulares", "personal", "unidad de inteligencia penitenciaria", "presupuesto ejercido", "equipo informático", "registros administrativos", "Registro Nacional de Detenciones", "personas ingresadas", "personas egresadas", "personas privadas de la libertad", "delitos", "marco regulatorio", "programa de justicia terapéutica", "reinserción social", "traslados", "extradiciones", "protección de derechos humanos", "servicios postpenales", "personas adolescentes en tratamiento externo"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-01-01-2024-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anualmente
+
+Distribution: https://www.inegi.org.mx/programas/cnsipee/2025/

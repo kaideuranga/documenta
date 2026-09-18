@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+motitras_b,Motivo del traslado,SECC VI. 2,Numérico,2,1 al 99
+traslatt,Total,SECC VI. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla1,Voluntarios,SECC VI. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla2,Involuntarios,SECC VI. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

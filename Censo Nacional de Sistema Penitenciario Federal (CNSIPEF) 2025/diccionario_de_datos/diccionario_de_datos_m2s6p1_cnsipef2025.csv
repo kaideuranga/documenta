@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+rnsnni1,Realización de algún traslado de personas privadas de la libertad en los centros penitenciarios federales,SECC VI. 1,Numérico,2,0 al 98
+traslatt,Total,SECC VI. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla1,Voluntarios,SECC VI. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla2,Involuntarios,SECC VI. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,10 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+traslado_b,Tipo de traslados,SECC VI. 3,Numérico,1,1 al 9
+rnsnni1,Registro de la ocurrencia de algún incidente durante la realización de traslados,SECC VI. 3,Numérico,2,0 al 98
+trainctt,Total,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc1,Fugas a consecuencia del traslado,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc2,Muertes en el transcurso del traslado,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc3,Lesiones en el transcurso del traslado,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc4,Choques en el transcurso del traslado,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc5,Ataques al transporte del traslado,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trainc6,Otro,SECC VI. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC XII. 1,Numérico,2,1 al 99
+enticve1,Entidad,SECC XII. 1,Carácter,2500,
+rnsnni1,Realización de algún traslado de personas privadas de la libertad en los centros penitenciarios.,SECC XII. 1,Numérico,2,0 al 98
+traslatt,Total,SECC XII. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla1,Voluntarios,SECC XII. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+trasla2,Involuntarios,SECC XII. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

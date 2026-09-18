@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+entidad_a,Entidad federativa,SECC XII. 4,Numérico,2,1 al 99
+enticve1,Entidad,SECC XII. 4,Carácter,2500,
+capaises_c,País receptor,SECC XII. 4,Numérico,2,1 al 99
+totalca1,Traslados internacionales realizados,SECC XII. 4,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
